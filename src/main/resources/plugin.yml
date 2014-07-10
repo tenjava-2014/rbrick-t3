@@ -1,0 +1,3 @@
+name: rbrick-t3
+main: com.tenjava.entries.rbrick.t3.TenJava
+version: '${project.version}'
